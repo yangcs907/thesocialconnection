@@ -1,0 +1,14 @@
+// action types for reducers
+export const GET_ERROR_MESSAGES = 'GET_ERROR_MESSAGES';
+export const CLEAR_ERROR_MESSAGES = 'CLEAR_ERROR_MESSAGES';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const GET_CURRENT_PROFILE = 'GET_CURRENT_PROFILE';
+export const LOADING_PROFILE = 'LOADING_PROFILE';
+export const PROFILE_NOT_FOUND = 'PROFILE_NOT_FOUND';
+export const CLEAR_CURRENT_PROFILE = 'SET_CURRENT_USER';
+export const GET_USER_PROFILES = 'GET_USER_PROFILES';
+export const POST_LOADING = 'POST_LOADING';
+export const GET_POSTS = 'GET_POSTS';
+export const GET_POST = 'GET_POST';
+export const ADD_POST = 'ADD_POST';
+export const DELETE_POST = 'DELETE_POST';

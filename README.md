@@ -1,1 +1,1 @@
-# thesocialconnection
+# socialconnection
